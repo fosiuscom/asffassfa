@@ -4,10 +4,13 @@
 	<title>Статья</title>
 </head>
 <body>
-	<h1 style="position: relative; text-align: center;">Статья американского учёного</h1>
+	<h1 style="position: relative; text-align: center;">Scientist's article</h1>
 	<a href="https://vk.com/video-198411459_456241709">
 	<img style="position: relative; width: 200px; height: 200px; left: 45%" src="https://cdn.discordapp.com/attachments/904037998440640614/924939899017261056/a2.jpg">
 	</a>
+
+<video width="640" height="480" controls src="https://cdn.discordapp.com/attachments/904037998440640614/924939628153290773/amg.mp4" loop=></video>
+	
 	<hr>
 	<h2>A cell phone aboard an airplane, fantasies and the facts
 Those, who often use airplanes, get used to warnings, that it is banned to use electrical devices, such as players, notebooks and mobile phones in particularly during take-offs and landings. The latter are banned to use during all the flight and none of the airlines allows passengers to do it. Passengers react differently on this warning, someone switches off the phone, and someone thinks that it is only a precaution. In this case people make calls during take-offs and landings, they don't pay attention to requests of neighbors or even crewmen. And it is so, despite the fact that all airlines prohibit to use cell phone during the flight. This ban, which was appeared as an extra insurance, is of vitally importance today. We've already known instances in which equipment and navigation equipment, in particular, was affected by a cell phone. At least one air crash was occurred because of a working mobile phone and it is a forcible argument to ban all wireless phones aboard the plane. 
@@ -28,6 +31,7 @@ One-minute call will be charged not much: 0.75 - 1.5 USD. This price is compatib
 Verizon Airfone - an owner of the majority of air-phones, is more conservative. In order air-phones don't rival with cell-phones, the company will overcharge a cell phone service. A one-minute call will cost about 3.9 USD and you should also pay for a connection approximately the same money. It's not known about the technical realization of the system from Verizon Airfone. May be it is just a “paper” project.
 New initiative of the companies was taken seriously by FCC. Today Verizon Airfone is a monopolist if to say about air-phones. Nevertheless officials are rather skeptical, they notice that time is needed to reequip all aircrafts if all test experiences are successful. Till now a question of bands is rather controversial in USA. Three bands are equally cover the territory of USA. And it is an additional difficulty to introduce new equipment. Even representatives of airlines, who lose money after cell phone ban, think that these systems will begin to work not earlier than in 2007. It's interesting that a number of calls from the air decreases to one (instead of 4) after a ban law. Let see whether AirCell has a success in realization of the ideas. And for now we advice you to refrain from using mobile phones aboard. You know, imprisonment is not the worst thing that could be, catastrophe must not be ruled out either. Unfortunately it's a reality and we should think about it.
 </h2>
+	<h3>Stephen William Hawking></h3>
 <hr>
 </body>
 </html>
